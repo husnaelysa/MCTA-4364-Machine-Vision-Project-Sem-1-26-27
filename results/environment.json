@@ -1,0 +1,14 @@
+{
+  "platform": "Google Colab",
+  "gpu": "NVIDIA T4 (device: cuda)",
+  "python": "3.13",
+  "dataset": "MVTec AD bottle via HuggingFace TheoM55/mvtec_all_objects_split",
+  "image_size": 256,
+  "batch_size": 32,
+  "epochs": 100,
+  "optimizer": "Adam, lr 1e-4, weight_decay 1e-5, cosine schedule",
+  "teacher": "ResNet-18 ImageNet (layer1+layer2) + frozen 1x1 projection to 384 channels",
+  "student": "PDN-small, 2,694,144 parameters",
+  "seed": 42,
+  "training_time": "about 35-40 minutes"
+}
