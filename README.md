@@ -110,8 +110,8 @@ Our code is released under the MIT licence (see `LICENSE`). MVTec AD keeps its o
 
 ## Contributions
 
-- NUR HUSNA ELYSA MAISARAH BINTI ROSLI (2310366): README, requirements.txt, notebook, scripts/
-- NUR QISTINA BINTI MOHD FAIZAL (2319512): results/, report/ PDF, dataset notes in the README
+- NUR HUSNA ELYSA MAISARAH BINTI ROSLI (2310366): README.md, requirements.txt, progress report/PDF
+- NUR QISTINA BINTI MOHD FAIZAL (2319512): results/, scripts/, notebooks/
 
 ## References
 
