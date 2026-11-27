@@ -1,0 +1,7 @@
+split,class,n_images,label,has_mask
+train,good,209,normal,no
+test,good,20,normal,no
+test,broken_large,20,anomalous,yes
+test,broken_small,22,anomalous,yes
+test,contamination,21,anomalous,yes
+test,total,83,20 normal / 63 anomalous,
