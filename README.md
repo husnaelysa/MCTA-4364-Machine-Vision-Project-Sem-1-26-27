@@ -19,7 +19,7 @@
 
 ## Related work with official code
 
-- PUAD (Sugawara and Imamura, 2024), which extends EfficientAD for logical anomalies. Official code: https://github.com/LeapMind/PUAD (we do not use its code in progress-v1; it motivates our planned extension, see the report).
+- PUAD (Sugawara and Imamura, 2024), which extends EfficientAD for logical anomalies. Official code: https://github.com/LeapMind/PUAD (we do not use its code in progress-v1; it motivates our planned extension).
 
 ## Dataset
 
